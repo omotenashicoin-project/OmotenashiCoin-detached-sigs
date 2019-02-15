@@ -1,1 +1,1 @@
-# omotenashicoin-detached-sigs
+# OmotenashiCoin-detached-sigs
